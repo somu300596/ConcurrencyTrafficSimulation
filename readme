@@ -1,0 +1,6 @@
+This project is about Concurrency Traffic Simulation, as a part of Udacity C++ Nanodegree.
+
+This project mainly focuses on:
+1. Message Queue
+2. Threads
+3. Tasks
